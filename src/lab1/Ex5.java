@@ -13,6 +13,7 @@ public class Ex5 {
 	}
 
 	public static void main(String[] args) {
+		//
 		int N = 14;
 		int X = 3, Y = 5;
 
